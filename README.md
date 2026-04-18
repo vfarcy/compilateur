@@ -67,6 +67,4 @@ make clean
     - `GCC` ➡️ Liaison des fichiers objets ➡️ Exécutable final.
 
 ---
-*Projet réalisé dans le cadre de l'apprentissage de la théorie des langages et de la compilation.*
-"""
 
