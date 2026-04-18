@@ -1,0 +1,20 @@
+# --- Exécutables ---
+mon_compilateur
+
+# --- Fichiers générés par Flex et Bison ---
+# On ne versionne pas le code C généré, seulement les sources (.l et .y)
+lex.yy.c
+parser.tab.c
+parser.tab.h
+parser.output
+
+# --- Objets de compilation ---
+*.o
+
+# --- Fichiers système et éditeurs ---
+.DS_Store
+*~
+*.swp
+.vscode/
+.idea/
+
