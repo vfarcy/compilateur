@@ -1,13 +1,3 @@
-C'est une excellente pratique. Un bon `README.md` permet non seulement aux autres de comprendre votre code, mais vous aide aussi à vous souvenir du fonctionnement du projet dans six mois.
-
-Voici un modèle complet et professionnel adapté à votre projet actuel.
-
-```python
-import os
-
-# Contenu du README.md
-readme_content = """# 🚀 Mini-Compilateur (Flex & Bison)
-
 Ce projet est un exemple pédagogique d'un **analyseur lexical et syntaxique** simple fonctionnant sous Ubuntu. Il utilise le duo classique **Flex** (pour la reconnaissance des mots) et **Bison** (pour la structure grammaticale).
 
 ## 📋 Description du fonctionnement
